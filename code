@@ -28,6 +28,8 @@ def display_weather(data):
         print(f"Feels Like: {current.get('feelslike')}°C")
         print(f"Humidity: {current.get('humidity')}%")
         print(f"Weather Description: {current.get('weather_descriptions')[0]}")
+        uv_index = current.get("uv_index")
+        print(f"UV Index: {uv_index}")
     else:
         print("Weather data not available.")
 
