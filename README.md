@@ -30,7 +30,7 @@ The following were used:
 
 ## ROLE OF STUDENTS
 
-1.  Aayush Ranjan (Roll number 1)
+1.  Aayush Ranjan (Roll number 01)
 - Objective/Function of the Project
 - Hardware and software required
 - Idea of the project 
